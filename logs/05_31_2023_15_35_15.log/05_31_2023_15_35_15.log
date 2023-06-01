@@ -1,0 +1,11 @@
+[ 2023-05-31 15:35:15,137 ] 186 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.230:5000
+[ 2023-05-31 15:35:15,138 ] 186 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2023-05-31 15:35:15,140 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-05-31 15:35:15,462 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-31 15:35:15,473 ] 186 werkzeug - INFO -  * Debugger PIN: 150-340-424
+[ 2023-05-31 15:35:36,891 ] 8 root - INFO - we are testing our second methods of logging
+[ 2023-05-31 15:35:36,892 ] 186 werkzeug - INFO - 127.0.0.1 - - [31/May/2023 15:35:36] "GET / HTTP/1.1" 200 -
+[ 2023-05-31 15:35:37,553 ] 186 werkzeug - INFO - 127.0.0.1 - - [31/May/2023 15:35:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
