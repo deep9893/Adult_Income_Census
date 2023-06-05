@@ -1,0 +1,7 @@
+[ 2023-06-05 18:15:57,233 ] 20 root - INFO - data ingestion started
+[ 2023-06-05 18:15:57,233 ] 24 root - INFO - data reading using pandas library from local system
+[ 2023-06-05 18:15:57,252 ] 26 root - INFO - data reading completed
+[ 2023-06-05 18:15:57,318 ] 30 root - INFO - data splited into train test
+[ 2023-06-05 18:15:57,386 ] 37 root - INFO - data ingestion completed
+[ 2023-06-05 18:15:57,416 ] 80 root - INFO - outlier handling code
+[ 2023-06-05 18:15:57,416 ] 135 root - INFO - outlier handling code
