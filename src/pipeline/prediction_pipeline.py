@@ -9,7 +9,8 @@ import numpy as np
 import pandas as pd
 from dataclasses import dataclass
 from src.utils import load_object
-from src.exception import CustomException
+from src.exception import CustmeException
+
 
 class PredictionPipeline:
     def __init__(self):
@@ -79,8 +80,8 @@ class CustomClass:
             return data
         
         except Exception as e:
-            raise CustomException(e, sys)
-    
+            raise CustmeException(e,sys)
+
         
         
         

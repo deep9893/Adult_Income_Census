@@ -1,0 +1,15 @@
+[ 2023-06-06 22:36:16,922 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-06-06 22:36:16,933 ] 186 werkzeug - INFO -  * Debugger PIN: 150-340-424
+[ 2023-06-06 22:36:40,155 ] 186 werkzeug - INFO - 127.0.0.1 - - [06/Jun/2023 22:36:40] "GET / HTTP/1.1" 200 -
+[ 2023-06-06 22:36:41,043 ] 186 werkzeug - INFO - 127.0.0.1 - - [06/Jun/2023 22:36:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-06-06 22:36:46,851 ] 186 werkzeug - INFO - 127.0.0.1 - - [06/Jun/2023 22:36:46] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2023-06-06 22:36:46,994 ] 186 werkzeug - INFO - 127.0.0.1 - - [06/Jun/2023 22:36:46] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2023-06-06 22:36:47,103 ] 186 werkzeug - INFO - 127.0.0.1 - - [06/Jun/2023 22:36:47] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2023-06-06 22:36:47,457 ] 186 werkzeug - INFO - 127.0.0.1 - - [06/Jun/2023 22:36:47] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2023-06-06 22:36:47,722 ] 186 werkzeug - INFO - 127.0.0.1 - - [06/Jun/2023 22:36:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-06-06 22:36:54,789 ] 186 werkzeug - INFO - 127.0.0.1 - - [06/Jun/2023 22:36:54] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[ 2023-06-06 22:36:54,851 ] 186 werkzeug - INFO - 127.0.0.1 - - [06/Jun/2023 22:36:54] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-06-06 22:36:55,036 ] 186 werkzeug - INFO - 127.0.0.1 - - [06/Jun/2023 22:36:55] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-06-06 22:36:55,350 ] 186 werkzeug - INFO - 127.0.0.1 - - [06/Jun/2023 22:36:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-06-06 22:36:55,617 ] 186 werkzeug - INFO - 127.0.0.1 - - [06/Jun/2023 22:36:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-06-06 22:37:25,310 ] 186 werkzeug - INFO - 127.0.0.1 - - [06/Jun/2023 22:37:25] "POST / HTTP/1.1" 200 -
